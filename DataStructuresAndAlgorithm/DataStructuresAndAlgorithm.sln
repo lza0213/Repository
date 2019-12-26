@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithm"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyChicken", "BuyChicken\BuyChicken.csproj", "{A8C76CC0-19E1-40A6-AFA3-3563CD5882F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artificialintelligence", "Artificialintelligence\Artificialintelligence.csproj", "{2E5E058C-EEDF-4B5E-BD28-66E59A4B41A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A8C76CC0-19E1-40A6-AFA3-3563CD5882F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C76CC0-19E1-40A6-AFA3-3563CD5882F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C76CC0-19E1-40A6-AFA3-3563CD5882F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5E058C-EEDF-4B5E-BD28-66E59A4B41A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5E058C-EEDF-4B5E-BD28-66E59A4B41A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5E058C-EEDF-4B5E-BD28-66E59A4B41A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5E058C-EEDF-4B5E-BD28-66E59A4B41A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
