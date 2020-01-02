@@ -55,6 +55,7 @@ namespace Poker
                         temporary.update(listCard[c + 1]);
                         listCard[c + 1].update(listCard[c]);
                         listCard[c].update(temporary);
+
                     }
                 }
             }
