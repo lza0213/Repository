@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artificialintelligence", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{606715B6-F045-4393-AB4D-362E276B4136}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculateage", "Calculateage\Calculateage.csproj", "{5C8CDA49-BF8B-45DB-8EF2-B245D538D810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{606715B6-F045-4393-AB4D-362E276B4136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{606715B6-F045-4393-AB4D-362E276B4136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{606715B6-F045-4393-AB4D-362E276B4136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8CDA49-BF8B-45DB-8EF2-B245D538D810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8CDA49-BF8B-45DB-8EF2-B245D538D810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8CDA49-BF8B-45DB-8EF2-B245D538D810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8CDA49-BF8B-45DB-8EF2-B245D538D810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
